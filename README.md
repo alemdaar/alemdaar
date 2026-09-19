@@ -23,7 +23,7 @@ I build backend and systems software, with a foundation in C/C++, Linux, network
 
 ## Core stack
 
-`Java` `Spring Boot` `Node.js` `Express` `PostgreSQL` `C` `C++` `Linux` `Docker` `Git`
+`Java` `Python` `Spring Boot` `Node.js` `Express` `PostgreSQL` `C` `C++` `Linux` `Docker` `Git`
 
 ## Connect
 
